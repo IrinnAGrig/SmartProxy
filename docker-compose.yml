@@ -1,0 +1,65 @@
+﻿version: '3.8'
+
+services:
+  eventapi_1:
+    build:
+      context: ./EventAPI
+      dockerfile: Dockerfile
+    ports:
+      - "9001:9001"
+    environment:
+      - MongoDbSettings__ConnectionString=mongodb://mongo1:27017
+      - MongoDbSettings__DatabaseName=events1
+    depends_on:
+      - mongo1
+
+  eventapi_2:
+    build:
+      context: ./EventAPI
+      dockerfile: Dockerfile
+    ports:
+      - "9002:9002"
+    environment:
+      - MongoDbSettings__ConnectionString=mongodb://mongo2:27017
+      - MongoDbSettings__DatabaseName=events2
+    depends_on:
+      - mongo2
+
+  syncnode:
+    image: syncnode
+    ports:
+      - "5000:5000"
+    depends_on:
+      - eventapi_1
+      - eventapi_2
+
+  proxy:
+    image: reverse_proxy
+    ports:
+      - "8000:80"
+    environment:
+      - Ocelot__Configuration__Reload__Delay=1000
+      - Ocelot__Configuration__File=proxySetting.json
+    depends_on:
+      - eventapi_1
+      - eventapi_2
+
+  mongo1:
+    image: mongo
+    ports:
+      - "27017:27017"
+    command: mongod --bind_ip_all
+    volumes:
+      - mongodb_data:/data/db
+
+  mongo2:
+    image: mongo
+    ports:
+      - "27018:27017"
+    command: mongod --bind_ip_all
+    volumes:
+      - mongodb_data_2:/data/db
+
+volumes:
+  mongodb_data:
+  mongodb_data_2:

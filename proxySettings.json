@@ -1,0 +1,28 @@
+﻿{
+     "Routes": [
+          {
+               "DownstreamPathTemplate": "/{url}",
+               "DownstreamScheme": "http",
+               "DownstreamHostAndPorts": [
+                    {
+                         "Host": "eventapi_1", // Numele serviciului din docker-compose.yml
+                         "Port": 9001
+                    },
+                    {
+                         "Host": "eventapi_2", // Numele serviciului din docker-compose.yml
+                         "Port": 9002
+                    }
+               ],
+               "UpstreamPathTemplate": "/{url}",
+               "UpstreamHttpMethod": [ "Get" ],
+               "LoadBalancerOptions": {
+                    "Type": "RoundRobin"
+               },
+               "FileCacheOptions": {
+                    "TtlSeconds": 10,
+                    "Region": "eventCacheRegion"
+               }
+          }
+          // Restul configurației...
+     ]
+}

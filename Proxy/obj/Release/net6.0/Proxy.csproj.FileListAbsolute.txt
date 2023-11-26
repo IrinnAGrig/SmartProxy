@@ -1,0 +1,109 @@
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\appsettings.Development.json
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\appsettings.json
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\ocelot.json
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Proxy.staticwebassets.runtime.json
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Proxy.exe
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Proxy.deps.json
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Proxy.runtimeconfig.json
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Proxy.dll
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Proxy.pdb
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\FluentValidation.dll
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+D:\University\Anul 4\PAD\SmartProxy\Proxy\bin\Release\net6.0\Ocelot.dll
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\Proxy.csproj.AssemblyReference.cache
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\Proxy.AssemblyInfoInputs.cache
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\Proxy.AssemblyInfo.cs
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\Proxy.csproj.CoreCompileInputs.cache
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\Proxy.MvcApplicationPartsAssemblyInfo.cs
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\Proxy.MvcApplicationPartsAssemblyInfo.cache
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets.build.json
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets.development.json
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\scopedcss\bundle\Proxy.styles.css
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\Proxy.csproj.CopyComplete
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\Proxy.dll
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\refint\Proxy.dll
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\Proxy.pdb
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\Proxy.genruntimeconfig.cache
+D:\University\Anul 4\PAD\SmartProxy\Proxy\obj\Release\net6.0\ref\Proxy.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\appsettings.json
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\ocelot.json
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Proxy.staticwebassets.runtime.json
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Proxy.exe
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Proxy.deps.json
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Proxy.runtimeconfig.json
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Proxy.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Proxy.pdb
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\FluentValidation.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\bin\Release\net6.0\Ocelot.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\Proxy.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\Proxy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\Proxy.AssemblyInfo.cs
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\Proxy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\Proxy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets\msbuild.Proxy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets\msbuild.build.Proxy.props
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proxy.props
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Proxy.props
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\scopedcss\bundle\Proxy.styles.css
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\Proxy.csproj.CopyComplete
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\Proxy.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\refint\Proxy.dll
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\Proxy.pdb
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\Proxy.genruntimeconfig.cache
+C:\Users\User\Desktop\SmartProxy\Proxy\obj\Release\net6.0\ref\Proxy.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\appsettings.Development.json
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\appsettings.json
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\ocelot.json
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Proxy.staticwebassets.runtime.json
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Proxy.exe
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Proxy.deps.json
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Proxy.runtimeconfig.json
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Proxy.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Proxy.pdb
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\FluentValidation.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\bin\Release\net6.0\Ocelot.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\Proxy.csproj.AssemblyReference.cache
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\Proxy.AssemblyInfoInputs.cache
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\Proxy.AssemblyInfo.cs
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\Proxy.csproj.CoreCompileInputs.cache
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\Proxy.MvcApplicationPartsAssemblyInfo.cs
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\Proxy.MvcApplicationPartsAssemblyInfo.cache
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets\msbuild.Proxy.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets\msbuild.build.Proxy.props
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proxy.props
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Proxy.props
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets.pack.json
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets.build.json
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\staticwebassets.development.json
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\scopedcss\bundle\Proxy.styles.css
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\Proxy.csproj.CopyComplete
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\Proxy.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\refint\Proxy.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\Proxy.pdb
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\Proxy.genruntimeconfig.cache
+D:\sem 7\PAD\Lab2\SmartProxy\Proxy\obj\Release\net6.0\ref\Proxy.dll

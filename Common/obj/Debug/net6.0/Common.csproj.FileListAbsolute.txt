@@ -1,0 +1,48 @@
+D:\University\Anul 4\PAD\SmartProxy\Common\bin\Debug\net6.0\Common.deps.json
+D:\University\Anul 4\PAD\SmartProxy\Common\bin\Debug\net6.0\Common.dll
+D:\University\Anul 4\PAD\SmartProxy\Common\bin\Debug\net6.0\Common.pdb
+D:\University\Anul 4\PAD\SmartProxy\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\University\Anul 4\PAD\SmartProxy\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Anul 4\PAD\SmartProxy\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\University\Anul 4\PAD\SmartProxy\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\University\Anul 4\PAD\SmartProxy\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\University\Anul 4\PAD\SmartProxy\Common\obj\Debug\net6.0\Common.dll
+D:\University\Anul 4\PAD\SmartProxy\Common\obj\Debug\net6.0\refint\Common.dll
+D:\University\Anul 4\PAD\SmartProxy\Common\obj\Debug\net6.0\Common.pdb
+D:\University\Anul 4\PAD\SmartProxy\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\User\Desktop\SmartProxy\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\User\Desktop\SmartProxy\Common\bin\Debug\net6.0\Common.dll
+C:\Users\User\Desktop\SmartProxy\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Desktop\SmartProxy\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SmartProxy\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SmartProxy\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SmartProxy\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\User\Desktop\SmartProxy\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SmartProxy\Common\obj\Debug\net6.0\Common.dll
+C:\Users\User\Desktop\SmartProxy\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\User\Desktop\SmartProxy\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\User\Desktop\SmartProxy\Common\obj\Debug\net6.0\ref\Common.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Common\bin\Debug\net6.0\Common.deps.json
+D:\sem 7\PAD\Lab2\SmartProxy\Common\bin\Debug\net6.0\Common.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Common\bin\Debug\net6.0\Common.pdb
+D:\sem 7\PAD\Lab2\SmartProxy\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\sem 7\PAD\Lab2\SmartProxy\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 7\PAD\Lab2\SmartProxy\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\sem 7\PAD\Lab2\SmartProxy\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\sem 7\PAD\Lab2\SmartProxy\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\sem 7\PAD\Lab2\SmartProxy\Common\obj\Debug\net6.0\Common.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Common\obj\Debug\net6.0\refint\Common.dll
+D:\sem 7\PAD\Lab2\SmartProxy\Common\obj\Debug\net6.0\Common.pdb
+D:\sem 7\PAD\Lab2\SmartProxy\Common\obj\Debug\net6.0\ref\Common.dll
+D:\sem 7\PAD\Lab3\SmartProxy\Common\bin\Debug\net6.0\Common.deps.json
+D:\sem 7\PAD\Lab3\SmartProxy\Common\bin\Debug\net6.0\Common.dll
+D:\sem 7\PAD\Lab3\SmartProxy\Common\bin\Debug\net6.0\Common.pdb
+D:\sem 7\PAD\Lab3\SmartProxy\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\sem 7\PAD\Lab3\SmartProxy\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 7\PAD\Lab3\SmartProxy\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\sem 7\PAD\Lab3\SmartProxy\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\sem 7\PAD\Lab3\SmartProxy\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\sem 7\PAD\Lab3\SmartProxy\Common\obj\Debug\net6.0\Common.dll
+D:\sem 7\PAD\Lab3\SmartProxy\Common\obj\Debug\net6.0\refint\Common.dll
+D:\sem 7\PAD\Lab3\SmartProxy\Common\obj\Debug\net6.0\Common.pdb
+D:\sem 7\PAD\Lab3\SmartProxy\Common\obj\Debug\net6.0\ref\Common.dll
